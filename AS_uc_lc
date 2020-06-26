@@ -1,0 +1,4 @@
+
+user=input("enter the string")
+print("string in uppercase is",user.upper())
+print("string in lowercase is",user.lower())
